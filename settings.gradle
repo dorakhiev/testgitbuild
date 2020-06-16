@@ -1,2 +1,3 @@
+include ':logutil'
 rootProject.name='TestGitBuild'
 include ':app'
